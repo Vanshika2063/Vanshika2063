@@ -15,6 +15,6 @@
   <img align="right" width="70px" src="leetcode.svg"  />
 </a>
 
-<h3> I'm  Learner.😊<h3/>
+<h3> Learn: java(DSA)<h3/>
 <h3> 𝙇𝙤𝙫𝙚 𝙮𝙤𝙪𝙧𝙨𝙚𝙡𝙛 🌺 <h3/>
 
