@@ -1,8 +1,8 @@
-## Hey Everyone  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px">, here is my accounts
+## Hey Everyone  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px">, here is my account
 
 <!-- my twitter -->
 <a href="https://twitter.com/Vanshika2063">
-  <img align="right" width="70px" src="twitter.png"  />
+  <img width="70px" src="twitter.png"  />
 </a>
 
 
