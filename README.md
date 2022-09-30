@@ -6,9 +6,9 @@
 </a>
 
 <!-- my instagram -->
-<a href="https://www.instagram.com/viroopaksh_utrayak/">
+<!--<a href="https://www.instagram.com/viroopaksh_utrayak/">
   <img align="right" width="70px" src="instagram.png"  />
-</a>
+</a>-->
 
 <!-- leetCode -->
 <a href="https://leetcode.com/viroopaksh_utrayak/">
