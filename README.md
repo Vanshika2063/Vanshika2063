@@ -13,7 +13,3 @@
 <br>
 <br>
 <br>
-
-# Contribute in [leetcode-Question](https://github.com/Vanshika2063/Leetcode-Questions) repository 😄
-
-
